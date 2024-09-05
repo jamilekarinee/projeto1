@@ -1,0 +1,22 @@
+table {
+    border: 1cm;
+    background-color: #ffaae4; 
+}
+h1, h2, table, td{
+    font-family: "SemiBold 600";
+}
+tr:nth-child(odd){
+    background-color: #ec54ad;
+}
+th{
+    background-color: #e23694; 
+    color: white;
+    padding: 5px;
+}
+label{
+    font-family: "SemiBold 600", Arial, Helvetica, sans-serif;
+}
+.botao_adicionar{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
